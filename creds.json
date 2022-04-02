@@ -1,0 +1,17 @@
+{
+  "web": {
+    "client_id": "85064518933-d2p89cmvf7i8b4jvat19q23snc55nvsl.apps.googleusercontent.com",
+    "project_id": "pandacal-3453002",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "https://9uajidt851.execute-api.us-east-1.amazonaws.com/oauth",
+      "http://localhost:3000"
+    ],
+    "javascript_origins": [
+      "https://9uajidt851.execute-api.us-east-1.amazonaws.com"
+    ]
+  }
+}
